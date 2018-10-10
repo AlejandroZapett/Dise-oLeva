@@ -7,7 +7,7 @@ clf(figure(1));
 
 %parametros del sistema:
 
-h=3;
+h=5;
 B=120;
 
 %Diagrama de x
